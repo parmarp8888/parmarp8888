@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # About Me:
 Hi there! 👋<br>I'm a 3rd-year Computer Science & Engineering student focused on defensive security, network monitoring, and threat hunting. I am utilizing my CSE background to build a strong foundation for a SOC L1 Analyst career.<br>Right now, I am tracking my daily growth through a 1-to-100 Days Cybersecurity Challenge right here on GitHub.<br><div align="right">
-  <a href="PASTE_YOUR_DESTINATION_URL_HERE" target="_blank" rel="noopener noreferrer">
+  <a href="parmarp8888" target="_blank" rel="noopener noreferrer">
     <img src="soc_env.gif" alt="SOC Analyst Environment" width="50%" height="50%">
   </a>
 </div><br>🛠️ Core Focus Areas:<br><br>Traffic & Log Analysis: Learning to spot anomalies and malicious activity.<br><br>SIEM Fundamentals: Getting hands-on with monitoring and alerting tools.<br><br>Defensive Security: Understanding system hardening and infrastructure defense.<br><br>Incident Response: Studying how to triage and investigate alerts efficiently.<br><br>Feel free to explore my repositories to see my daily challenge logs, lab setups, and notes!
