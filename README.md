@@ -1,4 +1,3 @@
-##
 
 <!--
 **parmarp8888/parmarp8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 Hi there! 👋<br>I'm a 3rd-year Computer Science & Engineering student focused on defensive security, network monitoring, and threat hunting. I am utilizing my CSE background to build a strong foundation for a SOC L1 Analyst career.<br>Right now, I am tracking my daily growth through a 1-to-100 Days Cybersecurity Challenge right here on GitHub.<br><br>🛠️ Core Focus Areas:<br><br>Traffic & Log Analysis: Learning to spot anomalies and malicious activity.<br><br>SIEM Fundamentals: Getting hands-on with monitoring and alerting tools.<br><br>Defensive Security: Understanding system hardening and infrastructure defense.<br><br>Incident Response: Studying how to triage and investigate alerts efficiently.<br><br>Feel free to explore my repositories to see my daily challenge logs, lab setups, and notes!
-
 
 
 ## 🌐 Socials:
@@ -32,7 +30,3 @@ Hi there! 👋<br>I'm a 3rd-year Computer Science & Engineering student focused 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://komarev.com/ghpvc/?username=parmarp8888&icon=6&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
