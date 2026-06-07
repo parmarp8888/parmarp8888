@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-Hi there! 👋<br>I'm a 3rd-year Computer Science & Engineering student focused on defensive security, network monitoring, and threat hunting. I am utilizing my CSE background to build a strong foundation for a SOC L1 Analyst career.<br>Right now, I am tracking my daily growth through a 1-to-100 Days Cybersecurity Challenge right here on GitHub.<br><div align="right">
+Hi there! 👋<br>I'm a 3rd-year Computer Science & Engineering student focused on defensive security, network monitoring, and threat hunting. I am utilizing my CSE background to build a strong foundation for a SOC L1 Analyst career.<br>Right now, I am tracking my daily growth through a 1-to-100 Days Cybersecurity Challenge right here on GitHub.<br>
+<div align="right">
   <a href="parmarp8888" target="_blank" rel="noopener noreferrer">
     <img src="soc_env.gif" alt="SOC Analyst Environment" width="50%" height="50%">
   </a>
